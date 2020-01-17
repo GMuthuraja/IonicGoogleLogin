@@ -1,5 +1,7 @@
 {
   "name": "googlelogin_nofirebase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
